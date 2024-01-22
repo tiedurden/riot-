@@ -1,7 +1,7 @@
 <template>
   <div>
     test
-    <p>{{ msg }}</p>
+    <p>{{ msg.summonerLevel }}</p>
 
   </div>
 </template>

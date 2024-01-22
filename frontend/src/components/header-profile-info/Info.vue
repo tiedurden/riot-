@@ -1,13 +1,13 @@
 <script setup>
-
 import Tierlist from "./Tierlist.vue";
-import {Star} from "@element-plus/icons-vue";
+import { Star } from "@element-plus/icons-vue";
+
 </script>
 
 <template>
  <Tierlist></Tierlist>
   <div class="Info__nameRow">
-    <h3> Summoner Name #EUW </h3>
+    <h3> Dom Noway #EUW </h3>
     <el-button  :icon="Star" class="Info__addToFavoritesButton" />
   </div>
 </template>

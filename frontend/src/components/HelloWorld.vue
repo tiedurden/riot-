@@ -7,12 +7,6 @@
 <script setup>
 import HeaderProfileInfo from "./header-profile-info/HeaderProfileInfo.vue";
 
-defineProps({
-  msg: {
-    type: String,
-    required: true
-  }
-})
 </script>
 
 
